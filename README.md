@@ -3,19 +3,16 @@
 Este es mi primer intento con git.
 
 Quiero poder:
+
 - Aprender git.
 - Aprender GitHub.
 - Aprender Markdown.
 - Aprender a hacer manualidades.
 
 
-## Aprender git
+## indice 
 
-```sql
-SELECT name
-FROM world
-WHERE continent = 'Europe':
-```
+1. [Capítulo 1 - SQL](./capitulo-1/README.md)
 
 ## Aprender GitHub
 
